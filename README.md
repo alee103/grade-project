@@ -3,7 +3,7 @@
 The goal of this project is to investigate the influence of the COVID-19 pandemic on grade distributions for a university class spanning 6 semesters.
 
 **DATA**<br /> 
-Grades for a large, undergraduate intro level course over six semesters: Spring 2019 to Fall 2021. These semesters span from pre-pandemic (SP19 & FA19) to pandemic (SP20-FA21). Raw grade data (found in 'grade-date') has already been anonymized through removal of identifying information and randomization of indices.
+Grades for a large, undergraduate intro level course over six semesters: Spring 2019 to Fall 2021. These semesters span from pre-pandemic (SP19 & FA19) to pandemic (SP20-FA21). Raw grade data (found in 'grade-data') has already been anonymized through the removal of identifying information and randomization of indices.
 
 **QUESTIONS**<br /> 
 Did the pandemic have an influence on grade distributions?
